@@ -12,8 +12,8 @@ public class MyFirstScript {
 		System.setProperty("webdriver.gecko.driver", "D:\\Training\\TrainingContent\\SeleniumJars_Software\\geckodriver_64\\geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.facebook.com");
-		
-		System.out.println(" my first script");
+		System.out.println("selenium ");
+		System.out.println(" my second script");
 	}
 
 }
